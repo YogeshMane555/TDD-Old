@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-10T12:02:47 IST" name="Default suite" finished-at="2022-11-10T12:03:16 IST" duration-ms="28467">
+    <groups>
+    </groups>
+    <test started-at="2022-11-10T12:02:47 IST" name="Default test" finished-at="2022-11-10T12:03:16 IST" duration-ms="28467">
+      <class name="simpleRR">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:simpleRR@399f45b1]" started-at="2022-11-10T12:02:47 IST" name="setUp" finished-at="2022-11-10T12:03:05 IST" duration-ms="17990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc1()[pri:0, instance:simpleRR@399f45b1]" started-at="2022-11-10T12:03:05 IST" name="tc1" finished-at="2022-11-10T12:03:16 IST" duration-ms="10068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:simpleRR@399f45b1]" started-at="2022-11-10T12:03:16 IST" name="tearDown" finished-at="2022-11-10T12:03:16 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- simpleRR -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
