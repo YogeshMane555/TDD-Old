@@ -19,7 +19,7 @@ public class simpleRR {
 		
 		co.addArguments("incognito");
 		
-		co.addArguments("start-maximizing");
+		co.addArguments("start-maximized");
 		
 		co.addArguments("Headless");
 		
